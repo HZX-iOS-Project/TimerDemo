@@ -21,6 +21,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    // 这里可以调用下方的方法测试
     
     [self executeLinkResolveRecycleByNSProxy];
 }
